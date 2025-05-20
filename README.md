@@ -1,4 +1,8 @@
-# LORD_OBITO_XMD Multi-Purpose WhatsApp Bot 🤖🔥
+
+
+---
+
+# Lord_obito Multi-Purpose WhatsApp Bot 🤖🔥
 
 A powerful WhatsApp bot built with Node.js and Baileys library — designed to manage groups, handle media, and more.
 
@@ -80,7 +84,7 @@ This bot comes fully loaded with essential tools for WhatsApp automation, modera
 ## Installation & Setup ⚙️
 
 ```bash
-git clone https://github.com/LORD-OBITO-DEV/LORD_OBITO_XMD.git/
+git clone https://github.com/Ely304-jpg/OBITO_XMD/
 cd your-bot-repo
 npm install
 node index.js
@@ -96,7 +100,7 @@ node index.js
 ---
 
 ## Connect with me 👤
-> Made with ❤️ by *👑𝙻𝙾𝚁𝙳_𝙾𝙱𝙸𝚃𝙾-𝙳𝙴𝚅👑*
-> Github: https://github.com/LORD-OBITO-DEV/LORD_OBITO_XMD.git/
+> Made with ❤️ by *👑𝕃𝕆ℝ𝔻_𝕆𝔹𝕀𝕋𝕆-𝔻𝔼𝕍👑*
+> Github: https://github.com/LORD-OBITO-DEV/LORD_OBITO_XMD-V1.git/
 
 ---
