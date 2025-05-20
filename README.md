@@ -97,6 +97,6 @@ node index.js
 
 ## Connect with me 👤
 > Made with ❤️ by *👑𝕃𝕆ℝ𝔻_𝕆𝔹𝕀𝕋𝕆-𝔻𝔼𝕍👑*
-> Github: https://github.com/LORD-OBITO-DEV/LORD_OBITO_XMD-V1.git/
+> Github: https://github.com/LORD-OBITO-DEV/LORD_OBITO_XMD.git/
 
 ---
