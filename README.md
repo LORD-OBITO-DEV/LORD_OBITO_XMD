@@ -80,7 +80,7 @@ This bot comes fully loaded with essential tools for WhatsApp automation, modera
 ## Installation & Setup ⚙️
 
 ```bash
-git clone https://github.com/Ely304-jpg/OBITO_XMD/
+git clone https://github.com/LORD-OBITO-DEV/LORD_OBITO_XMD.git/
 cd your-bot-repo
 npm install
 node index.js
@@ -96,7 +96,7 @@ node index.js
 ---
 
 ## Connect with me 👤
-> Made with ❤️ by *👑𝕃𝕆ℝ𝔻_𝕆𝔹𝕀𝕋𝕆-𝔻𝔼𝕍👑*
+> Made with ❤️ by *👑𝙻𝙾𝚁𝙳_𝙾𝙱𝙸𝚃𝙾-𝙳𝙴𝚅👑*
 > Github: https://github.com/LORD-OBITO-DEV/LORD_OBITO_XMD.git/
 
 ---
