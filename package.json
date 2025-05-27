@@ -14,7 +14,7 @@
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
     "@hapi/boom": "^10.0.1",
     "@whiskeysockets/baileys": "^6.7.16",
-    "@fizzxydev/baileys-pro":"npm:@fizzxydev/baileys-pro@latest",
+    "@fizzxydev/baileys-pro":"^8.7.2",
     "axios": "^1.8.1",
     "baileys": "^6.7.13",
     "exiftool": "^0.0.3",
