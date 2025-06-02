@@ -84,7 +84,7 @@ This bot comes fully loaded with essential tools for WhatsApp automation, modera
 ## Installation & Setup ⚙️
 
 ```bash
-git clone https://github.com/Ely304-jpg/OBITO_XMD/
+git clone https://github.com/LORD-OBITO-DEV/LORD_OBITO_XMD-V1/
 cd your-bot-repo
 npm install
 node index.js
